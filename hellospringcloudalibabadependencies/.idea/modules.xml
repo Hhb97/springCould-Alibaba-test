@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hellospringcloudalibabadependencies.iml" filepath="$PROJECT_DIR$/hellospringcloudalibabadependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellospringcloudalibabadependencies/hellospringcloudalibabanacosconsumer/hellospringcloudalibabanacosconsumer.iml" filepath="$PROJECT_DIR$/../hellospringcloudalibabadependencies/hellospringcloudalibabanacosconsumer/hellospringcloudalibabanacosconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellospringcloudalibabadependencies/hellospringcloudalibabanacosprovider/hellospringcloudalibabanacosprovider.iml" filepath="$PROJECT_DIR$/../hellospringcloudalibabadependencies/hellospringcloudalibabanacosprovider/hellospringcloudalibabanacosprovider.iml" />
+    </modules>
+  </component>
+</project>
